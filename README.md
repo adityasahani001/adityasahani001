@@ -9,7 +9,6 @@
 📫 **Contact me:** aditya.sahani.cs27@iilm.edu  
 🔗 **LinkedIn:** https://www.linkedin.com/in/aditya-sahani-0955b02ab  
 🌐 **GitHub:** https://github.com/adityasahani001  
-
 ---
 
 ## 💡 Skills & Tools  
