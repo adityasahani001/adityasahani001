@@ -42,7 +42,7 @@ University_Enrollment_System(Java Project)
 - Solving Data Structures and Algorithms problems regularly  
 - Uploading optimized solutions and improving problem-solving skills  
 - Repository Link:  
-  [https://github.com/adityasahani001/Leetcode-Questions-Practices]
+  [https://github.com/adityasahani001/DSA-Java-Training]
 
 ---
 
