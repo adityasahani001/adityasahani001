@@ -15,7 +15,7 @@
 ## 💡 Skills & Tools  
 
 
-**Languages**:  Python, Java, C, SQL, SQL
+**Languages**:  Python, Java, C, SQL
 
 **Frameworks & Tools**:  Git & GitHub, OpenCV, Google Colab, VS Code, TensorFlow, Scikit-learn, Excel, Canva
 
