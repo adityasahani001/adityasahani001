@@ -57,7 +57,6 @@ I am a passionate Computer Science student specializing in AI/ML, with a strong 
 - **🖼️ Image Classification using CNN**
 - **🆘 HelpMitra** – Android SOS Emergency App
 - **🤖 Neo Nova AI Chatbot**
-- **💱 Money Exchange System** *(C Project)*
 - **🏫 University Enrollment System** *(Java Project)*
 
 ---
