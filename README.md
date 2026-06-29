@@ -245,5 +245,5 @@ print(me)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
-  <sub>🟣 Built with 💜 — ⭐️ From <a href="https://github.com/adityasahani001">Aditya Sahani</a> — Let's connect and build something amazing!</sub>
+  <sub>🟣 Built with 💜 - ⭐️ From <a href="https://github.com/adityasahani001">Aditya Sahani</a> - Let's connect and build something amazing!</sub>
 </div>
