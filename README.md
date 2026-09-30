@@ -32,7 +32,7 @@
 class AdityaSahani:
     def __init__(self):
         self.name        = "Aditya Sahani"
-        self.role        = "AI/ML Engineer & Software Developer"
+        self.role        = "AI Engineer"
         self.location    = "Greater Noida, India 🇮🇳"
         self.education   = "B.Tech CSE (AI/ML) @ IILM University | CGPA: 8.5"
         self.github      = "https://github.com/adityasahani001"
